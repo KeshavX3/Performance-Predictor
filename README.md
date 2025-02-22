@@ -125,9 +125,7 @@ We welcome contributions to improve the project. To contribute:
 3. Make your changes.
 4. Submit a pull request with a clear description of your changes.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
@@ -135,6 +133,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/) for web application framework.
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/) for data manipulation.
 - [NumPy](https://numpy.org/) for numerical operations.
-
-
-
